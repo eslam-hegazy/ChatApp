@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630252047024",
+    "project_id": "messanger-92f6b",
+    "storage_bucket": "messanger-92f6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630252047024:android:38bb340eeeacc829fe4975",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630252047024-le9igfvg2406q8soe3mqsbnfjjt170op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmz_PXQ8vmCqbiVHA-rNV5lOdq3-aZRPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630252047024-le9igfvg2406q8soe3mqsbnfjjt170op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
